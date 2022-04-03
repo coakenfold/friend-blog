@@ -1,2 +1,3 @@
 # friend-blog
-i like kittys
+
+i like kittys and cardigans
